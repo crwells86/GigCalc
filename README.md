@@ -6,7 +6,7 @@ GigCalc does not collect any personal information from users. We do not gather, 
 
 ## Device Permissions:
 
-No permissions request necessary for this games functionality.
+No permissions request necessary for this apps functionality.
 
 ## Advertising and Analytics:
 
