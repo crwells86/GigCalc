@@ -10,7 +10,7 @@ No permissions request necessary for this apps functionality.
 
 ## Advertising and Analytics:
 
-No third-party advertising or analytics services are used in GigCalc. We provide an ad-free gaming environment.
+No third-party advertising or analytics services are used in GigCalc. We provide an ad-free experience.
 
 ## Contact Us:
 
